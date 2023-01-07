@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1574712796 source:c:\users\crysi\documents\suli\prog_nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+	"statements.h"
+
+1574703633 c:\users\crysi\documents\suli\prog_nhf\scan_fn.h
+
+1574703633 source:c:\users\crysi\documents\suli\prog_nhf\scan_fn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan_fn.h"
+
+1574706424 source:c:\users\crysi\documents\suli\prog_nhf\encode_out.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"encode_out.h"
+	"statements.h"
+
+1574705218 c:\users\crysi\documents\suli\prog_nhf\encode_out.h
+
+1574766067 c:\users\crysi\documents\suli\prog_nhf\statements.h
+
+1574712796 c:\users\crysi\documents\suli\prog_nhf\functions.h
+
+1574713590 source:c:\users\crysi\documents\suli\prog_nhf\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"statements.h"
+	"functions.h"
+
+1574896551 source:c:\users\crysi\desktop\prog_nhf\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"statements.h"
+	"functions.h"
+
+1574897213 c:\users\crysi\desktop\prog_nhf\statements.h
+
+1574896386 c:\users\crysi\desktop\prog_nhf\functions.h
+
+1574896386 source:c:\users\crysi\desktop\prog_nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+	"statements.h"
+
+1574974775 source:c:\users\crysi\desktop\safe_save6\prog_nhf\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+
+1574974775 c:\users\crysi\desktop\safe_save6\prog_nhf\functions.h
+
+1574974775 source:c:\users\crysi\desktop\safe_save6\prog_nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+
+1575227760 source:c:\users\crysi\desktop\safe_save6 - copy\prog_nhf\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+	"debugmalloc.h"
+
+1574974775 c:\users\crysi\desktop\safe_save6 - copy\prog_nhf\functions.h
+
+1575227425 c:\users\crysi\desktop\safe_save6 - copy\prog_nhf\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575227424 c:\users\crysi\desktop\safe_save6 - copy\prog_nhf\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575227841 source:c:\users\crysi\desktop\safe_save6 - copy\prog_nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+	"debugmalloc.h"
+
